@@ -58,4 +58,10 @@ Technologies Used:
 Conclusion:
 This project is an example of how Generative AI can enhance traditional ML models by providing natural language explanations. It shows how we can build not just accurate, but also user-friendly AI systems. The main ML model does the prediction, while the GPT-2-based model provides a narrative-style response based on the output.
 
-This project was done as part of the SystemTron Internship for Generative AI.
+
+## 👨‍💻 Author
+
+Developed by
+**Syeda Alia Samia**  
+GitHub:[Syeda Alia Samia](https://github.com/your-github-username)
+
